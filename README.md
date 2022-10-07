@@ -5,6 +5,7 @@
 >Created by KELVIN MUTHOMI
 
 # Live Link
+>https://loquacious-gecko-06932d.netlify.app/
 
 # setup and installation requirements
 >The requirements for hosting of this app include domain name, hosting provider, and hosting plan.
