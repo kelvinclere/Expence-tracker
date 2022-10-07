@@ -10,7 +10,7 @@
 
 body {
   background-color: #54C7F9;
-  /* background-image: url(images/expe.jpg); */
+  background-image: url(images/expe4.png);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,6 +25,7 @@ h2{
   font-size: 30px;
   color: whitesmoke;
   
+  
 }
 
 .container {
@@ -37,7 +38,7 @@ h2{
 h1 {
   letter-spacing: 1px;
   margin: 0;
-  color: whitesmoke;
+  
 }
 
 h3 {
@@ -78,7 +79,7 @@ h4 {
 }
 
 .money.plus {
-  color: #2ecc71;
+  color: green;
 }
 
 .money.minus {
@@ -100,6 +101,11 @@ input[type='number'] {
   font-size: 16px;
   padding: 10px;
   width: 100%;
+}
+
+#amount{
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .btn {

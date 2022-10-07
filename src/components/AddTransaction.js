@@ -30,7 +30,7 @@ export const AddTransaction = () => {
         </div>
 
         <div className="Form-control">
-            <lebel htmlfor='amount'>
+            <lebel id='amount' htmlfor='amount'>
                 Amount <br />
                 (negative = expense, positive = income)
             </lebel>
